@@ -1,1 +1,1 @@
-message:www.tuan.com
+hello
