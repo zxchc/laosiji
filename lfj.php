@@ -1,1 +1,1 @@
-message:www.meituan.com
+message:www.tuan.com
